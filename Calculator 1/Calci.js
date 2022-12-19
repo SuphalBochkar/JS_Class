@@ -12,3 +12,15 @@ function substract(){
     var sub = a-b
     document.calculator.result.value=sub
 }
+function multiply(){
+    var a = Number(document.calculator.num1.value) ;
+    var b = Number(document.calculator.num2.value) ;
+    var mul = a*b
+    document.calculator.result.value=mul
+}
+function divide(){
+    var a = Number(document.calculator.num1.value) ;
+    var b = Number(document.calculator.num2.value) ;
+    var div = a/b
+    document.calculator.result.value=div ;
+}
