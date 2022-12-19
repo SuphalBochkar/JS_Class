@@ -19,3 +19,13 @@
 // document.getElementById('datatype').innerHTML=typeof b
 // document.getElementById('test').innerHTML= sum;
 
+// ^ strings
+// var a=10;
+// var b="Hi my name is " +a;
+// var c=5;
+// c+=1
+// document.getElementById('s1').innerHTML=a
+// document.getElementById('s2').innerHTML=b
+// document.getElementById('s3').innerHTML=c
+
+
