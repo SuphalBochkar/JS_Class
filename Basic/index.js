@@ -27,5 +27,3 @@
 // document.getElementById('s1').innerHTML=a
 // document.getElementById('s2').innerHTML=b
 // document.getElementById('s3').innerHTML=c
-
-
