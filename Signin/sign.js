@@ -10,3 +10,15 @@ button.addEventListener("click", function(){
     // var correctEmail = "xyz.abc@gmail.com";
     // var correctPass = "secret";
     
+    var correctEmail = "1";
+    var correctPass = "2";
+
+    var correctEmail = "6";
+    var correctPass = "7";
+    if(email === correctEmail && password === correctPass){
+        window.open("Calculator.html")
+    }  
+    else{
+        alert("Wrong Password")
+    }
+});
